@@ -1,5 +1,5 @@
 <h1>MultiplesSum</h1> 
-<h2>A function that receives a positive integer number and returns the sum of all numbers divisible by 3 or 5 that are inferior to the number passed on the function.</h2>
+<h2>A function that receives a positive integer number and returns the sum of all integers numbers divisible by 3 or 5 that are inferior to the number passed on the function.</h2>
 
 <h3>How to execute the program</h3>
 
