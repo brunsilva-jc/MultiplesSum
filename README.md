@@ -10,15 +10,15 @@ Download the <b>dart SDK or Flutter SDK:</b>
 
 <br>
 
-<p>With the assistance of your command line(cmd or powershell) follow the steps:</p>
+<p>1 - With the assistance of your command line(cmd or powershell) follow the steps:</p>
 <br>
-<p>Create a <b>new folder</b> in your computer and navigate to it.</p>
+<p>2 - Create a <b>new folder</b> in your computer and navigate to it.</p>
 <p>Inside your folder <b>gitclone</b> this repository</p>
 <br>
 <p>SSH <code>git clone git@github.com:brunsilva-jc/MultiplesSum.git</code></p>
 
 <br>
-
+<br>
 <p>HTTPS <code>git clone https://github.com/brunsilva-jc/MultiplesSum.git</code></p>
 
 
