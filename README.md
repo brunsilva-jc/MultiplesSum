@@ -31,8 +31,8 @@ Download the <b>dart SDK or Flutter SDK:</b>
 <br>
 <br>
 
-<p>The program will ask for an integer positive number </p>
-<p>Type the number to get the results.</p>
+<p>4 - The program will ask for an integer positive number </p>
+<p>Type the number to get the result.</p>
 
 
 
