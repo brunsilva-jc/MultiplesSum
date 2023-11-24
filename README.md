@@ -32,7 +32,7 @@ Download the <b>dart SDK or Flutter SDK:</b>
 <br>
 
 <p>4 - The program will ask for an integer positive number </p>
-<p>Type the number to get the result.</p>
+<p>Type the number to get the <b>Result</b>.</p>
 
 
 
