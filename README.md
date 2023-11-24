@@ -28,6 +28,12 @@ Download the <b>dart SDK or Flutter SDK:</b>
 
 <code>dart run multiplesSum.dart</code>
 
+<br>
+<br>
+
+<p>The program will ask for an integer positive number </p>
+<p>Type the number to get the results.</p>
+
 
 
 
