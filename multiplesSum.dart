@@ -14,10 +14,10 @@ void main() {
  print('==============================================================');
 }
 
-int multiplesSum(int n) {
+int multiplesSum(int number) {
  int sum = 0;
 
-  for (int num = 0; num < n; num++) {
+  for (int num = 0; num < number; num++) {
     if (num % 3 == 0 || num % 5 == 0) {
       sum = sum + num ;
     }
