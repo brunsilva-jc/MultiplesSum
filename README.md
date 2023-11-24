@@ -14,6 +14,11 @@ Download the <b>dart SDK or Flutter SDK:</b>
 <br>
 <p>Create a <b>new folder</b> in your computer and navigate to it.</p>
 <p>Inside your folder <b>gitclone</b> this repository</p>
+<br>
+<p>SSH</p>
+<code>git clone git@github.com:brunsilva-jc/MultiplesSum.git</code>
+<br>
+<p>HTTPS</p>
 <code>git clone ...</code>
 <br>
 <p>Make sure your are in the root directory and Execute the code</p>
