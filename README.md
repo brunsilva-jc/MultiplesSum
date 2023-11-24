@@ -24,7 +24,7 @@ Download the <b>dart SDK or Flutter SDK:</b>
 
 <br>
 <br>
-<p>3 - Make sure your are in the root directory and Execute the code</p>
+<p>3 - Make sure your are in the root directory and <b>Execute</b> the code</p>
 
 <code>dart run multiplesSum.dart</code>
 
