@@ -8,7 +8,6 @@ void main() {
 
  int result = multiplesSum(int.parse(num!));
 
- 
  print('---------------------------------------------------------------');
  print('The sum of all numbers divisible by 3 or 5 inferior to $num is:');
  print(result);
