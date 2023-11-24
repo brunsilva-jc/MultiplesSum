@@ -5,11 +5,14 @@
 
 First make sure you have Dart installed on your computer:
 Download the dart SDK or Flutter SDK: 
-https://docs.flutter.dev/get-started/install
-https://dart.dev/get-dart
+<p>https://docs.flutter.dev/get-started/install</p>
+<p>https://dart.dev/get-dart</p>
 
-Now, with Dart installed on your computer gitclone this repository.
-Trough your command line(cmd or powershell) access the repository path 
+<p>Now, with Dart installed on your computer gitclone this repository.</p>
+Trough your command line(cmd or powershell) access the repository root path.</p>
+
+<P>Now Execute the dart file</P>
+<p><B>dart run multiplesSum.dart</B></p>
 
 
 
