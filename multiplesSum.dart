@@ -4,9 +4,10 @@ import 'dart:io';
 void main() {
  print('===============================================================');
  print('Type a positive integer number:');
- 
  String? num = stdin.readLineSync();
+
  int result = multiplesSum(int.parse(num!));
+ 
  print('---------------------------------------------------------------');
  print('The sum of all numbers divisible by 3 or 5 inferior to $num is:');
  print(result);
